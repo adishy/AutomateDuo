@@ -1,0 +1,433 @@
+<TaskerData sr="" dvi="1" tv="5.2.bf1">
+	<Task sr="task2">
+		<cdate>1520741704242</cdate>
+		<edate>1549555978699</edate>
+		<id>2</id>
+		<nme>T</nme>
+		<pri>100</pri>
+		<Action sr="act0" ve="7">
+			<code>565385068</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<AllFields>true</AllFields>
+					<AllFields-type>java.lang.Boolean</AllFields-type>
+					<BigImageNames>&lt;null&gt;</BigImageNames>
+					<BigImageNames-type>java.lang.String</BigImageNames-type>
+					<BigTextNames>&lt;null&gt;</BigTextNames>
+					<BigTextNames-type>java.lang.String</BigTextNames-type>
+					<HasReplyAction>false</HasReplyAction>
+					<HasReplyAction-type>java.lang.Boolean</HasReplyAction-type>
+					<ImageNames>&lt;null&gt;</ImageNames>
+					<ImageNames-type>java.lang.String</ImageNames-type>
+					<InterceptApps>&lt;StringArray sr=""/&gt;</InterceptApps>
+					<InterceptApps-type>[Ljava.lang.String;</InterceptApps-type>
+					<InterceptPersistent>0</InterceptPersistent>
+					<InterceptPersistent-type>java.lang.String</InterceptPersistent-type>
+					<InternalActionsBig>&lt;null&gt;</InternalActionsBig>
+					<InternalActionsBig-type>java.lang.String</InternalActionsBig-type>
+					<InternalActionsSmall>-1,-1</InternalActionsSmall>
+					<InternalActionsSmall-type>java.lang.String</InternalActionsSmall-type>
+					<QueryAnyMatch>&lt;null&gt;</QueryAnyMatch>
+					<QueryAnyMatch-type>java.lang.String</QueryAnyMatch-type>
+					<QueryAppName>Duo Mobile</QueryAppName>
+					<QueryAppName-type>java.lang.String</QueryAppName-type>
+					<QueryAppPackage>&lt;null&gt;</QueryAppPackage>
+					<QueryAppPackage-type>java.lang.String</QueryAppPackage-type>
+					<QueryText>&lt;null&gt;</QueryText>
+					<QueryText-type>java.lang.String</QueryText-type>
+					<QueryTitle>&lt;null&gt;</QueryTitle>
+					<QueryTitle-type>java.lang.String</QueryTitle-type>
+					<SnoozedNotifications>false</SnoozedNotifications>
+					<SnoozedNotifications-type>java.lang.Boolean</SnoozedNotifications-type>
+					<TextNames>&lt;null&gt;</TextNames>
+					<TextNames-type>java.lang.String</TextNames-type>
+					<UseRegex>false</UseRegex>
+					<UseRegex-type>java.lang.Boolean</UseRegex-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Persistency Type: Both
+App Name: Duo Mobile
+Get All Fields : true
+Internal Actions Small: -1,-1</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%anapp()
+01. App name
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%anbackgroundimage()
+Background Image
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%anbigicon()
+04. Icon When Expanded
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%anbutton1action()
+13. Button Action 1
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;%anbutton1icon()
+13. Button 1 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;%anbutton1text()
+12. Button 1 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES6&gt;%anbutton2action()
+15. Button 2 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES6&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES7&gt;%anbutton2icon()
+15. Button 2 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES7&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES8&gt;%anbutton2text()
+14. Button 2 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES8&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES9&gt;%anbutton3action()
+17. Button 3 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES9&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES10&gt;%anbutton3icon()
+17. Button 3 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES10&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES11&gt;%anbutton3text()
+16. Button 3 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES11&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES12&gt;%anbutton4action()
+18. Button 4 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES12&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES13&gt;%anbutton4icon()
+18. Button 4 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES13&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES14&gt;%anbutton4text()
+18. Button 4 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES14&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES15&gt;%anbutton5action()
+19. Button 5 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES15&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES16&gt;%anbutton5icon()
+19. Button 5 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES16&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES17&gt;%anbutton5text()
+19. Button 5 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES17&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES18&gt;%ancolor()
+Color
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES18&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES19&gt;%andismissaction()
+23. Action On Dismiss Id
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES19&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES20&gt;%angroup()
+Group
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES20&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES21&gt;%anicon()
+04. Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES21&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES22&gt;%anid()
+Id
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES22&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES23&gt;%animages()
+20. Images
+20. Images&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES23&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES24&gt;%animagesbig()
+21. Images When Expanded
+21. Images When Expanded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES24&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES25&gt;%aninfotext()
+10. Info Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES25&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES26&gt;%aninternalactions()
+Internal Notification Actions
+Internal Notification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES26&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES27&gt;%ankey()
+Key
+A unique instance key for this notification&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES27&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES28&gt;%anpackage()
+Package Name
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES28&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES29&gt;%anpeople()
+People
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES29&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES30&gt;%anpicture()
+05. Picture
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES30&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES31&gt;%anpriority()
+Priority
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES31&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES32&gt;%anprogress()
+Progress
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES32&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES33&gt;%anprogressindeterminate()
+Progress Indeterminate
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES33&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES34&gt;%anprogressmax()
+Progress Max
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES34&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES35&gt;%anreplyaction()
+20. Action Reply
+Use with AutoNotification Reply&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES35&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES36&gt;%anshowchronometer()
+Show Chronometer
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES36&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES37&gt;%ansortkey()
+Sort Key
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES37&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES38&gt;%anstatus()
+Cancelled Or Created
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES38&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES39&gt;%anstatusbaricon()
+07. Status Bar Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES39&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES40&gt;%anstatusbaricon()
+Status Bar Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES40&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES41&gt;%ansubtext()
+08. SubText
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES41&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES42&gt;%ansummary()
+Is Summary
+Will be set to &amp;lt;b&amp;gt;1&amp;lt;/b&amp;gt; if it's a summary and &amp;lt;b&amp;gt;will not be set&amp;lt;/b&amp;gt; otherwise.&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES42&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES43&gt;%ansummarytext()
+09. Summary Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES43&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES44&gt;%antag()
+Tag
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES44&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES45&gt;%antext()
+03. Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES45&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES46&gt;%antextbig()
+03. Text When Expanded
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES46&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES47&gt;%antextlines()
+11. Text Lines
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES47&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES48&gt;%antexts()
+18. Texts
+18. Texts&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES48&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES49&gt;%antextsbig()
+19. Texts When Expanded
+19. Texts When Expanded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES49&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES50&gt;%anticker()
+03. Ticker Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES50&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES51&gt;%antitle()
+02. Title
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES51&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES52&gt;%antitlebig()
+02. Title When Expanded
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES52&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES53&gt;%antouchaction()
+22. Action On Touch Id
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES53&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES54&gt;%anwhen()
+Show When
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES54&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES55&gt;%anwhentime()
+When
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES55&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES56&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES56&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES57&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES57&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>InternalActionsSmall InterceptPersistent QueryAppName plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>51a6e839-058b-44db-a856-d6ec60ae1e3c</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autonotification.intent.IntentNotificationQuery</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autonotification</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autonotification.activity.ActivityConfigNotificationQuery</Str>
+			<Int sr="arg3" val="20"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">%anbutton1text()</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>1677547919</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<InterceptActionId>%anbutton1action</InterceptActionId>
+					<InterceptActionId-type>java.lang.String</InterceptActionId-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Intercept Action ID: %anbutton1action</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>InterceptActionId plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>2dc9e8c6-6472-4cf2-83ec-0ae4c280b858</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autonotification.intent.IntentNotificationInterceptActions</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autonotification</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autonotification.activity.ActivityConfigNotificationInterceptActions</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act3" ve="7">
+			<code>30</code>
+			<Int sr="arg0" val="0"/>
+			<Int sr="arg1" val="1"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+			<Int sr="arg4" val="0"/>
+		</Action>
+		<Action sr="act4" ve="7">
+			<code>565385068</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<AllFields>true</AllFields>
+					<AllFields-type>java.lang.Boolean</AllFields-type>
+					<BigImageNames>&lt;null&gt;</BigImageNames>
+					<BigImageNames-type>java.lang.String</BigImageNames-type>
+					<BigTextNames>&lt;null&gt;</BigTextNames>
+					<BigTextNames-type>java.lang.String</BigTextNames-type>
+					<HasReplyAction>false</HasReplyAction>
+					<HasReplyAction-type>java.lang.Boolean</HasReplyAction-type>
+					<ImageNames>&lt;null&gt;</ImageNames>
+					<ImageNames-type>java.lang.String</ImageNames-type>
+					<InterceptApps>&lt;StringArray sr=""/&gt;</InterceptApps>
+					<InterceptApps-type>[Ljava.lang.String;</InterceptApps-type>
+					<InterceptPersistent>0</InterceptPersistent>
+					<InterceptPersistent-type>java.lang.String</InterceptPersistent-type>
+					<InternalActionsBig>&lt;null&gt;</InternalActionsBig>
+					<InternalActionsBig-type>java.lang.String</InternalActionsBig-type>
+					<InternalActionsSmall>-1,-1</InternalActionsSmall>
+					<InternalActionsSmall-type>java.lang.String</InternalActionsSmall-type>
+					<QueryAnyMatch>&lt;null&gt;</QueryAnyMatch>
+					<QueryAnyMatch-type>java.lang.String</QueryAnyMatch-type>
+					<QueryAppName>Duo Mobile</QueryAppName>
+					<QueryAppName-type>java.lang.String</QueryAppName-type>
+					<QueryAppPackage>&lt;null&gt;</QueryAppPackage>
+					<QueryAppPackage-type>java.lang.String</QueryAppPackage-type>
+					<QueryText>&lt;null&gt;</QueryText>
+					<QueryText-type>java.lang.String</QueryText-type>
+					<QueryTitle>&lt;null&gt;</QueryTitle>
+					<QueryTitle-type>java.lang.String</QueryTitle-type>
+					<SnoozedNotifications>false</SnoozedNotifications>
+					<SnoozedNotifications-type>java.lang.Boolean</SnoozedNotifications-type>
+					<TextNames>&lt;null&gt;</TextNames>
+					<TextNames-type>java.lang.String</TextNames-type>
+					<UseRegex>false</UseRegex>
+					<UseRegex-type>java.lang.Boolean</UseRegex-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Persistency Type: Both
+App Name: Duo Mobile
+Get All Fields : true
+Internal Actions Small: -1,-1</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%anapp()
+01. App name
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%anbackgroundimage()
+Background Image
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;%anbigicon()
+04. Icon When Expanded
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES2&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;%anbutton1action()
+13. Button Action 1
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES3&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;%anbutton1icon()
+13. Button 1 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES4&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;%anbutton1text()
+12. Button 1 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES5&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES6&gt;%anbutton2action()
+15. Button 2 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES6&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES7&gt;%anbutton2icon()
+15. Button 2 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES7&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES8&gt;%anbutton2text()
+14. Button 2 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES8&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES9&gt;%anbutton3action()
+17. Button 3 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES9&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES10&gt;%anbutton3icon()
+17. Button 3 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES10&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES11&gt;%anbutton3text()
+16. Button 3 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES11&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES12&gt;%anbutton4action()
+18. Button 4 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES12&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES13&gt;%anbutton4icon()
+18. Button 4 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES13&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES14&gt;%anbutton4text()
+18. Button 4 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES14&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES15&gt;%anbutton5action()
+19. Button 5 Action
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES15&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES16&gt;%anbutton5icon()
+19. Button 5 Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES16&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES17&gt;%anbutton5text()
+19. Button 5 Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES17&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES18&gt;%ancolor()
+Color
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES18&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES19&gt;%andismissaction()
+23. Action On Dismiss Id
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES19&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES20&gt;%angroup()
+Group
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES20&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES21&gt;%anicon()
+04. Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES21&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES22&gt;%anid()
+Id
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES22&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES23&gt;%animages()
+20. Images
+20. Images&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES23&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES24&gt;%animagesbig()
+21. Images When Expanded
+21. Images When Expanded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES24&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES25&gt;%aninfotext()
+10. Info Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES25&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES26&gt;%aninternalactions()
+Internal Notification Actions
+Internal Notification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES26&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES27&gt;%ankey()
+Key
+A unique instance key for this notification&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES27&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES28&gt;%anpackage()
+Package Name
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES28&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES29&gt;%anpeople()
+People
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES29&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES30&gt;%anpicture()
+05. Picture
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES30&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES31&gt;%anpriority()
+Priority
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES31&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES32&gt;%anprogress()
+Progress
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES32&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES33&gt;%anprogressindeterminate()
+Progress Indeterminate
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES33&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES34&gt;%anprogressmax()
+Progress Max
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES34&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES35&gt;%anreplyaction()
+20. Action Reply
+Use with AutoNotification Reply&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES35&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES36&gt;%anshowchronometer()
+Show Chronometer
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES36&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES37&gt;%ansortkey()
+Sort Key
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES37&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES38&gt;%anstatus()
+Cancelled Or Created
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES38&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES39&gt;%anstatusbaricon()
+07. Status Bar Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES39&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES40&gt;%anstatusbaricon()
+Status Bar Icon
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES40&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES41&gt;%ansubtext()
+08. SubText
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES41&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES42&gt;%ansummary()
+Is Summary
+Will be set to &amp;lt;b&amp;gt;1&amp;lt;/b&amp;gt; if it's a summary and &amp;lt;b&amp;gt;will not be set&amp;lt;/b&amp;gt; otherwise.&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES42&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES43&gt;%ansummarytext()
+09. Summary Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES43&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES44&gt;%antag()
+Tag
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES44&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES45&gt;%antext()
+03. Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES45&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES46&gt;%antextbig()
+03. Text When Expanded
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES46&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES47&gt;%antextlines()
+11. Text Lines
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES47&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES48&gt;%antexts()
+18. Texts
+18. Texts&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES48&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES49&gt;%antextsbig()
+19. Texts When Expanded
+19. Texts When Expanded&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES49&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES50&gt;%anticker()
+03. Ticker Text
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES50&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES51&gt;%antitle()
+02. Title
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES51&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES52&gt;%antitlebig()
+02. Title When Expanded
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES52&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES53&gt;%antouchaction()
+22. Action On Touch Id
+Use with AutoNotification Actions&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES53&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES54&gt;%anwhen()
+Show When
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES54&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES55&gt;%anwhentime()
+When
+&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES55&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES56&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES56&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES57&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES57&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>InternalActionsSmall InterceptPersistent QueryAppName plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>51a6e839-058b-44db-a856-d6ec60ae1e3c</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autonotification.intent.IntentNotificationQuery</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autonotification</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autonotification.activity.ActivityConfigNotificationQuery</Str>
+			<Int sr="arg3" val="20"/>
+		</Action>
+		<Action sr="act5" ve="7">
+			<code>548</code>
+			<Str sr="arg0" ve="3">%anbutton1text()</Str>
+			<Int sr="arg1" val="0"/>
+		</Action>
+		<Action sr="act6" ve="7">
+			<code>1677547919</code>
+			<Bundle sr="arg0">
+				<Vals sr="val">
+					<InterceptActionId>%anbutton1action</InterceptActionId>
+					<InterceptActionId-type>java.lang.String</InterceptActionId-type>
+					<com.twofortyfouram.locale.intent.extra.BLURB>Intercept Action ID: %anbutton1action</com.twofortyfouram.locale.intent.extra.BLURB>
+					<com.twofortyfouram.locale.intent.extra.BLURB-type>java.lang.String</com.twofortyfouram.locale.intent.extra.BLURB-type>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES>&lt;StringArray sr=""&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;%err
+Error Code
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES0&gt;&lt;_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;%errmsg
+Error Message
+Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/b&amp;gt; and the action ends in error&lt;/_array_net.dinglisch.android.tasker.RELEVANT_VARIABLES1&gt;&lt;/StringArray&gt;</net.dinglisch.android.tasker.RELEVANT_VARIABLES>
+					<net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>[Ljava.lang.String;</net.dinglisch.android.tasker.RELEVANT_VARIABLES-type>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>InterceptActionId plugininstanceid plugintypeid </net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS>
+					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
+					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
+					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
+					<plugininstanceid>2dc9e8c6-6472-4cf2-83ec-0ae4c280b858</plugininstanceid>
+					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
+					<plugintypeid>com.joaomgcd.autonotification.intent.IntentNotificationInterceptActions</plugintypeid>
+					<plugintypeid-type>java.lang.String</plugintypeid-type>
+				</Vals>
+			</Bundle>
+			<Str sr="arg1" ve="3">com.joaomgcd.autonotification</Str>
+			<Str sr="arg2" ve="3">com.joaomgcd.autonotification.activity.ActivityConfigNotificationInterceptActions</Str>
+			<Int sr="arg3" val="0"/>
+		</Action>
+	</Task>
+</TaskerData>
