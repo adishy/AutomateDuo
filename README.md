@@ -1,7 +1,7 @@
 # Duo Auto Accept
 ### *Disclaimer:*  Use this at your own risk. Automating two factor authentication will reduce security and nullify any advantages provided by it
 
-This document is aimed at providing a solution on Android devices for the annoying number of 2FA requests caused by trying to login to any Univerrsity of Michigan service. Please note that using this script is as good as *not* having 2FA enabled, so do consider the security implications before proceeding. 
+This document is aimed at providing a solution on Android devices for the annoying number of 2FA requests caused by trying to login to any University of Michigan service. Please note that using this script is as good as *not* having 2FA enabled, so do consider the security implications before proceeding. 
 
 ## Android
 * Install [Duo Mobile](https://play.google.com/store/apps/details?id=com.duosecurity.duomobile&hl=en_US) on your device and set up your account normally as per this [ITS document](https://documentation.its.umich.edu/2fa/enroll-smartphone-or-tablet-duo). If you are already using Duo Mobile on your device you can skip this step
