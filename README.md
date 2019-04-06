@@ -11,6 +11,8 @@
 
 * Download the [DuoAutoAccept.tsk.xml](https://raw.githubusercontent.com/adishy/AutomateDuo/master/DuoAutoAccept.tsk.xml) from the repository
 
- <img src="/screenshots/1_ImportedTask.jpg" alt="Importing the task downloaded from the repository" width="200"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adishy/AutomateDuo/master/screenshots/1_ImportTask.jpg" width="256" title="Github Logo">
+</p>
 
 * Import the task into Tasker (long press the Tasks tab)
