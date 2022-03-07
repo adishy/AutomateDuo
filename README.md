@@ -76,3 +76,11 @@ This document is aimed at providing a solution on Android devices for the annoyi
 </p>
 
 * Your phone should now accept any Duo Mobile Notifications automatically.
+
+
+
+
+
+
+
+Notes: I have updated this so that the script will now work with the UI change. I have also noted that your phone must be on and logged in for this to work. 
